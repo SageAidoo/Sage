@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<microbloggingSite>
+    <users>
+        <user>
+            <username>SSageAidoo</username>
+            <name>Emmanuel Aidoo Kwesi</name>
+            <email>emmanuelaidoo02 @email@gmail.com</email>
+            <bio>
+                I am python developer and Mobile Application developer, Certified python by Cisco <br>
+                Academy USA. </br>
+            </bio>
+            <posts>
+                <post>
+                    <postId>1</postId>
+                    <content>
+                        In the world of Creativeness, all you need is focus and continous pratice to <br>
+                        achieve your goal as a Developer or Creative mindsetter. </br>
+                                            </content>
+                    <timestamp>2024-02-23T08:00:00</timestamp>
+                    <likes>3</likes>
+                    <comments>
+                        <comment>
+                            <commentId>1</commentId>
+                            <content>nice post!</content>
+                            <timestamp>2024-03-23T08:09:00</timestamp>
+                        </comment>
+                    </comments>
+                </post>
+            </posts>
+        </user>
+        <!-- More user entries can be added here -->
+
+        <user>
+            <username>pEmman Hoodrich</username>
+            <name>Seth Adarkwah</name>
+            <email>sadarkwas234@email@gmail.com</email>
+            <bio>
+               its a  mistake to make a mistake but its foolines to repeat same mistake.
+            </bio>
+            <posts>
+                <post>
+                    <postId>2</postId>
+                    <content>
+                       Keep going, all dreams are achievable.
+                    </content>
+                    <timestamp>2024-02-23T08:00:00</timestamp>
+                    <likes>3</likes>
+                    <comments>
+                        <comment>
+                            <commentId>1</commentId>
+                            <content>great post!</content>
+                            <timestamp>2024-03-23T08:09:00</timestamp>
+                        </comment>
+                    </comments>
+                </post>
+            </posts>
+        </user>
+        
+    </users>
+</microbloggingSite>
